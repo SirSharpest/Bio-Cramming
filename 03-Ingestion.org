@@ -35,7 +35,7 @@ All organisms need to synthesise or ingest these to live!
 - [[https://en.wikipedia.org/wiki/Glucose][Glucose info wiki]]
 
 *** There are also disaccharides (obvious in name) 
-- Sucrose (covelent bond of Fructose and Glucose 
+- Sucrose (covelent bond of Fructose and Glucose) 
 
 *** Polysaccharides Longer and longer chains of sugars
 - Instead of being bursts/nibblets of energy they become store houses of energy 
@@ -51,6 +51,8 @@ All organisms need to synthesise or ingest these to live!
 - Hard to digest, which is why cows can, we can't
 - Very good for storing energy too... (bread, starch)
 - [[http://www.pslc.ws/macrog/starlose.htm][starch/cellulose info]] 
+- Fun fact, every-time a glucose chain gets longer off pops a h_{2}0 
+
 
 ***** Plants Energy store
 - Plants store glucose in the form of starch 
@@ -60,3 +62,50 @@ All organisms need to synthesise or ingest these to live!
 ***** Animals (humans) Energy store
 - We store our carbohydrates energy in Glycogen? 
   - Which is very similar to starch but a lot more complex. 
+
+**** Strength or Energy 
+
+***** Starch (Energy) 
+- Plants really know how to use glucose, to make starch they use \alpha-glucose (with the -OH pointed down) 
+- Starch is really good at storing energy
+- It forms a curve shape because of joining the OH pointing downwards. 
+- The starch polymer forms a kind of package 
+- Many starch polymers have a lot of branches that are short chains of glucose 
+- When plants need energy they grab some starch and start chomping glucose off the ends! 
+
+#+CAPTION: Amylose Molecule made of \alpha-glucose
+#+NAME: fig:3
+[[./images/amylose.gif]] 
+
+***** Cellulose (Strength) 
+- Cellulose is used to make plants' leaves and stems (or trunks) stable and strong. 
+- To make cellulose plants use \beta-glucose with the OH pointed out. 
+- Plants flip every other glucose over too. (WEIRD, BUT WORKS) 
+- Flipping allows for cellulose chains to stretch out and cram next into each other.
+- Think strong fibrous things like rope
+- More on cellulose [[http://pslc.ws/macrog/kidsmac/cell.htm][here]]
+
+** Lipids (triglycerides mostly in plants) 
+- Info for plant lipids [[http://www.cyberlipid.org/glycer/glyc0005.htm][here]]
+- In seeds the storage of triglycerides is often high
+- triglycerides are converted back to carbohydrates during germination 
+- lipids are smaller and simpler than complex carbohydrates
+- They are insoluble in water because of their chemical bonds being non-polar (see [[file:02-Water.org][water notes]])
+- To get triglycerides you take glycerol and fatty acid chains
+- Triglycerides come in either saturated or unsaturated 
+- Saturated in hydrogen that is... 
+- Because of carbon (see [[file:01-Chem.org][carbon notes]]) is very nimble in the amount of bonds it makes.
+ If the carbon atoms in a fatty acid are connected with single bonds, 
+ all the carbon atoms end up connected to at least 2 hydrogen atoms and one with picking up a third.
+ A saturated fatty acids is formed 
+- When some of the carbon atoms are done in double bonds to each other, all of the carbons electrons are spoken for
+ and so some of the hydrogen atoms cannot be picked up, these are unsaturated fatty acids 
+- Transfats - ignore these as they do not occur in nature and are evil
+
+*** Phospholipid 
+- Take triglyceride and swap one of it's fatty acids for a phosphate group and you have a phospholipid 
+- These make up cell membrane walls
+
+#+CAPTION: Phospholipid
+#+NAME: fig:4
+[[./images/phospholipid.gif]]
