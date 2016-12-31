@@ -1,0 +1,53 @@
+#+TITLE: Foods & Energy
+#+OPTIONS: toc:nil 
+#+AUTHOR: Nathan Hughes 
+
+* Biological Molecules
+
+They are the: 
+
+- Instructions 
+- Energy Storage 
+- Essential Sources of Energy 
+
+And they come in: 
+
+- Carbohydrates 
+- Lipids 
+- Proteins
+- Nucleic Acids 
+
+All organisms need to synthesise or ingest these to live!  
+
+
+** Carbohydrates
+
+- They are the source of all energy that we have available to us 
+- Made up of sugars 
+
+*** The most simple of which are the Monosaccharides 
+- Glucose is the star of the show (#1) because it comes from the sun (plants etc...) 
+- Fructose, same as glucose but arranged differently 
+- [[https://en.wikipedia.org/wiki/Glucose][Glucose info wiki]]
+
+*** There are also disaccharides (obvious in name) 
+- Sucrose (covelent bond of Fructose and Glucose 
+
+*** Polysaccharides Longer and longer chains of sugars
+- Instead of being bursts/nibblets of energy they become store houses of energy 
+- They become really good for building with because of this. 
+
+**** Cellulose 
+- This is bunch of glucose molecules bound together
+- Most common organic compound on the planet. 
+- Hard to digest, which is why cows can, we can't
+- Very good for storing energy too... (bread, starch) 
+
+***** Plants Energy store
+- Plants store glucose in the form of starch 
+- CONFUSED BETWEEN THIS AND CELLULOSE? ME TOO
+  - Clarification [[http://pslc.ws/macrog/kidsmac/starlose.htm][Starch vs Cellulose]]
+
+***** Animals (humans) Energy store
+- We store our carbohydrates energy in Glycogen? 
+  - Which is very similar to starch but a lot more complex. 

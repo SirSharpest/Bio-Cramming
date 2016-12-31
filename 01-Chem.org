@@ -1,0 +1,43 @@
+#+TITLE: Chemistry Basics to Remember 
+#+OPTIONS: toc:nil 
+#+AUTHOR: Nathan Hughes 
+
+* Organic Compounds 
+
+- Class of compounds that contain carbon
+- Carbon is small, as an atom, 6 protons, 6 neutrons, 6 electrons,  with a total weight of 12
+- Carbon can take on cool shapes because of its smallness. 
+- Can do things that bulkier atoms could not 
+- The gymnast of atoms 
+- Carbon is 'kind' 
+- Carbon wants more electrons but is easy about it.
+- Needs 4 more electrons and doesn't really care where they come from
+- Will happy to bond with loads of things at once 
+- Will join in an infinite number of configurations. 
+- Is so fundamental, that it is difficult to imagine a form of life not being based on it. 
+
+** Covalent bonds 
+
+- Carbon forms covalent bonds 
+- It will happily share it's electrons 
+- A good example of this is Methane 
+- 4 Hydrogen will form with 1 carbon to produce a methane compound
+- Lewis dot structure.
+- Polar covalent bonds 
+
+** Ionic Bonds 
+
+- Do NOT share electrons 
+- donate or accept electrons 
+- Live as a charged atom or ion 
+- Salt will happily destroy everything else to get sodium and chlorine together. 
+- Like getting two crazy friends together. 
+
+** Hydrogen bonds 
+
+- Polar covalent bonds stick together hydrogen end to oxygen end
+- One example of seeing this is water bubbling together at the top of a glass
+- Don't just happen in water 
+- Happens in proteins a lot
+- Weak and Strong bondings varies wildly
+- Making and breaking bonds is the key to life itself (and death) 

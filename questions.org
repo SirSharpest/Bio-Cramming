@@ -1,0 +1,16 @@
+#+TITLE: Questions...
+#+OPTIONS: toc:nil 
+#+AUTHOR: Nathan Hughes 
+
+* TODO Plants, do they sweat?  
+- Yes
+- It's a beautiful thing 
+- Learn more on it! 
+
+* TODO How can the same make up of molecules present different forms i.e. diamond and graphite
+- TODO: [[https://www.scientificamerican.com/article/how-can-graphite-and-diam/][Scientific American article on it]] (few paragraphs on it) 
+
+* TODO Why do plants store their energy in fruits/vegetables/tubors 
+- Oh I think it's for the next generation.
+- We steal the energy... 
+

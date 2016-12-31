@@ -1,0 +1,34 @@
+#+TITLE: Water
+#+OPTIONS: toc:nil 
+#+AUTHOR: Nathan Hughes 
+
+* Water 
+- Only element to appear naturally in all 3 forms
+
+** Why is water so important 
+- H2O (Covalent bond) 
+- Polarity 
+
+*** Cohesion
+- All h2o is attracted to other h2o molecules. 
+- Weak bond
+- Cohesion 
+- Water has the highest cohesion of any non-metalic liquid (beads up) 
+- Allows bugs and lizards and jesus to walk on water 
+- Adhesion on the other hand i.e. between water and glass causes a wider surface area 
+- Capillary Action (causes water to join with other water against gravity 
+
+*** Solvent
+- Water is the worlds best solvent 
+- There are more substances that dissolve in water than in anything else 
+- Hydrophilic - polar - their polarity is stronger than the cohesive forces of the water 
+- Hydrophobic - non-polar - is pushed out of water by the cohesive forces of water  
+
+*** Ice Density 
+- Everything else is more dense as a solid, NOT WATER 
+- Life is possible because of ice floating 
+- At 0 C, water molecules start to solidify and the hydrogen atoms form crystal structures to space things out.
+
+*** Heat Capacity
+- Water is really good at holding onto heat
+- Makes the oceans giant heatsinks! 
