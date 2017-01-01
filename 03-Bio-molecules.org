@@ -114,5 +114,15 @@ All organisms need to synthesise or ingest these to live!
 #+NAME: fig:4
 [[./images/phospholipid.gif]]
 
+*** Steroids 
+- Another form of lipid
+- Formed of a backbone of 4 interconnected rings of carbon 
+- Hundreds of variation 
+- Most common of which is the cholesterol 
+  - Which binds with phospholipids to help form cell walls 
+- Can be activated to turn into lipid hormones 
+[[./images/hormones.png]] 
+
+
 **** More info
 More phospholipid info [[file:04-Cell-Membranes.org][here]] 
