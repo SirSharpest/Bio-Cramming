@@ -14,3 +14,6 @@
 - Oh I think it's for the next generation.
 - We steal their energy... 
 
+* TODO Cell walls, does each cell have multiple walls? 
+- If so, what is between them
+- Do they each stop a unique thing each? 

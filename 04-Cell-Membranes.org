@@ -31,7 +31,25 @@ and slightly more important are:
 - Mostly regulate transport 
 - Allow large and charged things to get through 
 
-** Plants are the only glorious beings to have a cell wall for structure! 
+** Parts of the membrane 
+- Crazy how complex it really is
+- Made up of a number of different things 
+- Is know as being 'fluid' all of the things are moving within it 
+
+*** Diagram of membrane
+[[./images/membdiagram.gif]] 
+
+
+** Plants are the only glorious beings to have a cell wall for structure!
+- Because I had to ask I think it's worth noting that plants have both the cell wall for structure
+ and the cell membrane  
+- [[https://answers.yahoo.com/question/index?qid%3D20080323134925AAoY214][How do things get through a cell wall?]]
+  - Cell walls are permeable to small molecules 
+  - This is still a limiting factor of the size of which can get into the plasma membrane 
+  - Cell wall is made of cellulose which is porous 
+  - Key nutrients, especially water and carbon dioxide are distributed throughout the plant 
+ from cell wall to cell wall
+
 
 
 ** Handy reference image
