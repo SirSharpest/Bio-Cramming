@@ -35,12 +35,26 @@ and slightly more important are:
 - Crazy how complex it really is
 - Made up of a number of different things 
 - Is know as being 'fluid' all of the things are moving within it 
+- If things weren't fluid, nothing could get through 
+
+*** Cholesterol 
+- Connects phospholipids together 
+- Slows them so they don't drift apart too quickly 
+- e.g. when a temperature changes, our membranes would fall apart without this. 
+- Keeps them from getting too close too (if cold) 
+
+*** Glycoprotein 
+- Most commonly known one - Anti-bodies (plants don't have these per se) 
+  - [[http://www.howplantswork.com/2011/12/10/do-plants-have-an-immune-system/][Do plants have immune systems?]]
+
+
+
 
 *** Diagram of membrane
 [[./images/membdiagram.gif]] 
 
 
-** Plants are the only glorious beings to have a cell wall for structure!
+** Plants Cell Wall!
 - Because I had to ask I think it's worth noting that plants have both the cell wall for structure
  and the cell membrane  
 - [[https://answers.yahoo.com/question/index?qid%3D20080323134925AAoY214][How do things get through a cell wall?]]
@@ -52,5 +66,6 @@ and slightly more important are:
 
 
 
+
 ** Handy reference image
-[[./images/membranes.png]]
+   [[./images/membranes.png]]
