@@ -86,7 +86,7 @@ All organisms need to synthesise or ingest these to live!
 - Think strong fibrous things like rope
 - More on cellulose [[http://pslc.ws/macrog/kidsmac/cell.htm][here]]
 
-** Lipids (triglycerides mostly in plants) 
+** Lipids
 - Info for plant lipids [[http://www.cyberlipid.org/glycer/glyc0005.htm][here]]
 - In seeds the storage of triglycerides is often high
 - triglycerides are converted back to carbohydrates during germination 
