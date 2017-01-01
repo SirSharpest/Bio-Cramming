@@ -27,7 +27,7 @@ All organisms need to synthesise or ingest these to live!
 
 #+CAPTION: Glucose Molecule
 #+NAME: fig:1
-[[./images/glucose.gif]]
+[[./images/glucose.png]]
 
 *** The most simple of which are the Monosaccharides 
 - Glucose is the star of the show (#1) because it comes from the sun (plants etc...) 
@@ -43,7 +43,7 @@ All organisms need to synthesise or ingest these to live!
 - Starch and cellulose being very common
 #+CAPTION: Starch Isomer
 #+NAME: fig:2
-[[./images/starch.gif]] 
+[[./images/starch.png]] 
 
 
 **** Cellulose 
@@ -76,7 +76,7 @@ All organisms need to synthesise or ingest these to live!
 
 #+CAPTION: Amylose Molecule made of \alpha-glucose
 #+NAME: fig:3
-[[./images/amylose.gif]] 
+[[./images/amylose.png]] 
 
 ***** Cellulose (Strength) 
 - Cellulose is used to make plants' leaves and stems (or trunks) stable and strong. 
@@ -112,7 +112,7 @@ All organisms need to synthesise or ingest these to live!
  hydophilic ends being the walls and the hydrophobic tails being the internals
 #+CAPTION: Phospholipid
 #+NAME: fig:4
-[[./images/phospholipid.gif]]
+[[./images/phospholipid.png]]
 
 *** Steroids 
 - Another form of lipid

@@ -6,7 +6,7 @@
 - Only element to appear naturally in all 3 forms
 
 ** Why is water so important 
-- H2O (Covalent bond) 
+- H_{2}O (Covalent bond) 
 - Polarity 
 
 *** Cohesion

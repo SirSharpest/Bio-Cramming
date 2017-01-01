@@ -37,8 +37,9 @@ and slightly more important are:
 - Facilitated diffusion
 - Aquaporin allows for H_{2}O to pass through the cell membrane
 - Can also do active transport (see Na^{+} and K^{+} pump) 
-***** Types of proteins that allow larger molecules passage
-[[./images/prots.jpg]] 
+
+*** Types of proteins that allow larger molecules passage
+[[./images/prots.png]] 
 
 ** Parts of the membrane 
 - Crazy how complex it really is
@@ -65,7 +66,7 @@ and slightly more important are:
 
 
 *** Diagram of membrane
-[[./images/membdiagram.gif]] 
+[[./images/membdiagram.png]] 
 
 
 ** Plants Cell Wall!
@@ -88,4 +89,4 @@ and slightly more important are:
 
 
 ** Handy reference image
-   [[./images/membranes.png]]
+[[./images/membranes.png]]
