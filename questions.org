@@ -19,4 +19,4 @@
 - Do they each stop a unique thing each? 
 
 * TODO Cell walls, if they stop things passing through, how do transport proteins get access to larger molecules?
-
+* TODO If for example humans are bad at breaking down cellulose and cell walls are mostly made from it, then even fruit has a lot of it? Why can we break this down?

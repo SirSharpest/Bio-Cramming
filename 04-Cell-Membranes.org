@@ -77,7 +77,13 @@ and slightly more important are:
   - Cell wall is made of cellulose which is porous 
   - Key nutrients, especially water and carbon dioxide are distributed throughout the plant 
  from cell wall to cell wall
+- Cell wall allows water to be held in.
 
+*** Bacteria have a cell wall too! 
+- Is what antibiotics attack (usually)
+- Made of different chemicals though 
+*** Fungi also have them
+- Also made of different chemicals
 
 
 
