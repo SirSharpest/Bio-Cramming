@@ -35,6 +35,8 @@ and slightly more important are:
 - Mostly regulate transport 
 - Allow large and charged things to get through 
 - Facilitated diffusion
+- Aquaporin allows for H_{2}O to pass through the cell membrane
+- Can also do active transport (see Na^{+} and K^{+} pump) 
 ***** Types of proteins that allow larger molecules passage
 [[./images/prots.jpg]] 
 
