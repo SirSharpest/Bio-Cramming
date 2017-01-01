@@ -1,0 +1,32 @@
+#+TITLE: Cells
+#+OPTIONS: toc:nil 
+#+AUTHOR: Nathan Hughes 
+
+* Cell Membranes
+
+** Getting DNA from Banana example 
+- First step is to add shampoo to the banana 
+- Remembering that in eukaryotic cells DNA is within a nuclear membrane which is within the main cell membrane itself.
+- And also remember as it's a plant cell it is within a cell wall 
+- Adding soap will dissolve the nuclear membrane and release the DNA (The cell wall can be destroyed with a blender)  
+- Soap destroys the cell wall because it is made up of lipids 
+
+** Selective Permeability 
+- Cells only allow certain things in and certain things out. 
+- It uses the Cell membrane for this 
+- Our understanding of the membrane is based on the fluid mosaic model. 
+
+*** Important within the cell membrane are: 
+- Cholesterol 
+- Glycoprotiens 
+- Glycolipids 
+
+and slightly more important are: 
+
+**** Phospholipids
+- Amphipathic (part repels, part attracted to water)
+- Allow small and uncharged particles to move through it 
+
+**** Proteins 
+- Mostly regulate transport 
+- Allow large and charged things to get through 

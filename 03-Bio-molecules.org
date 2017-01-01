@@ -1,4 +1,4 @@
-#+TITLE: Foods & Energy
+#+TITLE: Bio-Molecules
 #+OPTIONS: toc:nil 
 #+AUTHOR: Nathan Hughes 
 
@@ -44,6 +44,7 @@ All organisms need to synthesise or ingest these to live!
 #+CAPTION: Starch Isomer
 #+NAME: fig:2
 [[./images/starch.gif]] 
+
 
 **** Cellulose 
 - This is bunch of glucose molecules bound together
@@ -105,7 +106,13 @@ All organisms need to synthesise or ingest these to live!
 *** Phospholipid 
 - Take triglyceride and swap one of it's fatty acids for a phosphate group and you have a phospholipid 
 - These make up cell membrane walls
-
+- On all cells! 
+- This gives the molecule a polar end and a non-polar end 
+- Scattering phospholipids in water would end-up arranging themselves into a fuzzy looking corridor with the 
+ hydophilic ends being the walls and the hydrophobic tails being the internals
 #+CAPTION: Phospholipid
 #+NAME: fig:4
 [[./images/phospholipid.gif]]
+
+**** More info
+More phospholipid info [[file:04-Cell-Membranes.org][here]] 
