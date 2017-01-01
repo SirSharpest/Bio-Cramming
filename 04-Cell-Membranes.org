@@ -26,10 +26,17 @@ and slightly more important are:
 **** Phospholipids
 - Amphipathic (part repels, part attracted to water)
 - Allow small and uncharged particles to move through it 
+- Made of carbon and hydrogen (Hydro-carbon) 
+- Attracts water without letting it pass through 
+- Easy for Carbon Dioxide and Oxygen to pass through (both super small and both no charge)
+  - Diffusion! 
 
 **** Proteins 
 - Mostly regulate transport 
 - Allow large and charged things to get through 
+- Facilitated diffusion
+***** Types of proteins that allow larger molecules passage
+[[./images/prots.jpg]] 
 
 ** Parts of the membrane 
 - Crazy how complex it really is
@@ -46,7 +53,12 @@ and slightly more important are:
 *** Glycoprotein 
 - Most commonly known one - Anti-bodies (plants don't have these per se) 
   - [[http://www.howplantswork.com/2011/12/10/do-plants-have-an-immune-system/][Do plants have immune systems?]]
+  - [[http://www.sciencedirect.com/science/article/pii/S0981942800001650][They do have glycoproteins, I checked]]
 
+*** Glycolipids 
+- Fats with sugars attached on the outside
+- Used for signalling 
+- Decides parts of a molecule to take in. Works as a key in a lock mechanism
 
 
 
