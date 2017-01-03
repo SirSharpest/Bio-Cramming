@@ -87,6 +87,5 @@ and slightly more important are:
 - Also made of different chemicals
 
 
-
 ** Handy reference image
 [[./images/membranes.png]]

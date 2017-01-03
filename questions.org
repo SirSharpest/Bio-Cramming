@@ -20,3 +20,5 @@
 
 * TODO Cell walls, if they stop things passing through, how do transport proteins get access to larger molecules?
 * TODO If for example humans are bad at breaking down cellulose and cell walls are mostly made from it, then even fruit has a lot of it? Why can we break this down?
+* TODO What is/was the benefit of evolving prokaryotes to eukaryotes
+- [[http://evolution.berkeley.edu/evolibrary/article/_0/endosymbiosis_03][More reading]]
