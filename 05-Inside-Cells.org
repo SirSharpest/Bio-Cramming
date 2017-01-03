@@ -1,0 +1,29 @@
+#+TITLE: Inside Cells 
+#+OPTIONS: toc:nil 
+#+AUTHOR: Nathan Hughes 
+
+* Robert Hooke
+- In 1665 Robert Hooke first observed cells, and it is agreed that since then, we have taken things too far. 
+- They were named cells because they appeared to be barren and empty with not much going on inside... like a 
+ monks bedroom (or so I'm told) 
+
+[[./images/cells.png]]
+
+
+* We only care about plants (for now) so a quick bit of animal cell info
+- Animal cells lack of cell walls, allow them to move easier 
+- Plants can't dance (well some people say they can, but that's a different matter)
+- A flexible membrane is why animal cells have had such success at creating lots of different structures and 
+ organ types, tissue types that would not be possible with a ridged forms 
+- The ability to move oneself around is \texttrademark{} by kingdom Animalia
+** What about Protozoan
+- No 
+- They don't have have specialised muscle tissue
+- They have creepy weird things like flagella 
+
+* Plant Cells 
+
+** Cell walls 
+- See [[file:04-Cell-Membranes.org][Cell Membrane notes for more]]
+- The cell walls that protect plants and give them structure also limit them from developing complex 
+ nerve structures and muscle cells that allow animals to move forcibly. 
