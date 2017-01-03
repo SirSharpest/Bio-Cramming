@@ -86,12 +86,29 @@ Both Flagellum and Cilia are made of protein fibres called Microtubules.
  London, or Kim Jung's house in NK) 
 
 *** Endoplasmic Reticulum (ER) 
-- Is an organelle which acts as a transport system 
-- Carries stuff around 
+- Is an organelle which acts a manufacturing and packaging system
+- Works as a network of membranes to synthesise proteins. 
 - Made of phospolipid Bilayers 
+- Both Rough and Smooth have the same types of membranes, but different shapes. 
+- The double membranes of both types of ER form sacs called cisternae
+- [[http://www.biology4kids.com/files/cell_er.html][More info on ER]]
 
 **** Rough ER 
 - Looks bumpy because it has ribosomes attached 
+- More detail will be found on Ribosomes when they're looked at in more detail
+- Very important in the synthesis and packaging of proteins. 
+- The RER is attached to the nuclear envelope surrounding the Nucleus. 
+- The close proximity of RER to the nucleus allows for molecules to move between both membranes.
+
+*****  Protein synthesis 
+- begins when mRNA (again more later) moves from the nucleus to a ribosome on the surface of the RER
+- As the ribosome builds the amino acid chain, the chain is pushed into the cisternal space of the RER
+- When proteins are complete they collect and the RER pinches off a vesicle
+- That vesicle, a small membrane bubble, can move to the cell membrane or the golgi apparatus (more later)
+- Some of the proteins will be used in the cell and some will be sent out. 
+
+[[./images/celler.png]]
+
 
 **** Smooth ER 
 - Doesn't have ribosomes attached 
@@ -102,6 +119,12 @@ Both Flagellum and Cilia are made of protein fibres called Microtubules.
 - Some enzymes specialise in cell detoxification 
   - Done by adding a carboxal group to them, to make them soluble in water
 - Stores ions in solutions that may be needed later on
+- Cells which release oils have more SER than most cells
+***** Sarcoplasmic Reticulum 
+- Is a variation of the SER
+- It is able to store many ions in solution
+- When a cell needs to do something immediately, it uses this rather than scavenge around the environment
+
 
 ** Reference terms
  
