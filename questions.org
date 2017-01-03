@@ -22,3 +22,5 @@
 * TODO If for example humans are bad at breaking down cellulose and cell walls are mostly made from it, then even fruit has a lot of it? Why can we break this down?
 * TODO What is/was the benefit of evolving prokaryotes to eukaryotes
 - [[http://evolution.berkeley.edu/evolibrary/article/_0/endosymbiosis_03][More reading]]
+* TODO Cell detoxification in smooth er, does this work the same in plants
+- i.e. in humans it helps with stuff derived from drugs / alcohol, does it work same in plants 
