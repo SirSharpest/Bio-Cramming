@@ -1,4 +1,4 @@
-#+TITLE: Inside Cells 
+#+TITLE: Inside (Eukaryotic) Cells 
 #+OPTIONS: toc:nil 
 #+AUTHOR: Nathan Hughes 
 
@@ -21,6 +21,10 @@ A cell is like a city:
 - No hippy government where people talk and vote on crap
   - Think North Korea. 
 
+* Eukaryotic Meaning
+- Named for having a 'good kernel', that is to say the nucleus 
+- Prokaryotic meaning 'before the kernel' 
+
 * We only care about plants (for now) so a quick bit of animal cell info
 [[./images/animalcell.png]]
 - Animal cells lack of cell walls, allow them to move easier 
@@ -36,10 +40,48 @@ A cell is like a city:
 * Handy Comparison chart
 [[http://www.diffen.com/difference/Animal_Cell_vs_Plant_Cell][Plant Cell v Animal Cell]]
 
+** Interesting to pull from that table is that
+- most plant cells don't have Cilia
+- Some cells have Flagella 
+
+Both Flagellum and Cilia are made of protein fibres called Microtubules.
+
 * Plant Cells 
 [[./images/plantcell.png]] 
+
+** History 
+- Plants probably evolved >500 million years ago
+- Earliest plant fossils found are Lycophytes 
+  - Which still exist today
+  - Work by shedding a bunch of spores and hoping for the best.
+  - Evolved into scale trees (now extinct) 
+    - Graveyards of these becoming large veins of coal  
+  - Carboniferous Peroid being the epoch of geological history because of the scale tree forests
+- Plants which use flowers to reproduce (Angiosperms) didn't show up until the end of the cretaceous period.
+ 65 million years ago (just as the dinosaurs were packing up)
+  - To do: find out if dinosaurs were allergic to flowers 
 
 ** Cell walls 
 - See [[file:04-Cell-Membranes.org][Cell Membrane notes for more]]
 - The cell walls that protect plants and give them structure also limit them from developing complex 
  nerve structures and muscle cells that allow animals to move forcibly. 
+
+** Organelles 
+- Essentially factories which do stuff! 
+- Loads of them 
+- Suspended in [[https://en.wikipedia.org/wiki/Cytoplasm][Cytoplasm]] (give wiki link as first mention of it in these notes and is important) 
+- [[https://www.quora.com/Is-nucleolus-an-organelle][Is the Nucleolus an Organelle?]] 
+  - This question is interesting as it shows my thoughts on Biology well as being a grey subject at times. 
+  - Some answers say Yes, some No. 
+  - It seems like yes, but with a few rule breaking characteristics... is it the platypus of the Eukaryotic world?
+
+*** Cytoplasm 
+- A solution of water and nutrients  
+- Inside of which is the cytoskeleton 
+  - A bunch of protein cells which reinforce the cell
+  - Centrosomes are a special part of this reinforcement
+    - They assemble long microtubles that act like steal girders which holds things together
+- Cytoplasm provides the infastructure required for all of the organelles to do what they need to do.
+- EXCEPTION of the nucleus which has its own internal structure called the nucleoplasm (think city of London vs
+ London, or Kim Jung's house in NK) 
+
