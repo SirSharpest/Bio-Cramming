@@ -168,6 +168,18 @@ N.B. Very very basic explanation that is no where near enough to appreciate the 
 Had a quick look to see if these acted the same in animals as they do in plants and there is a 
 [[http://www.journals.uchicago.edu/doi/abs/10.2307/1536370][journal on the subject]] the abstract seems to be enough to assume that for the most part yes. 
 
+- Where respiration takes place 
+- The place where energy is derived from carbohydrates, fats and other fuels
+- Converts things into ATP (Adenosine triphosphate)
+- Pretty cool in that they have their own DNA 
+  - This means that because these replicate themselves in a separate fashion, 
+ at reproduction this cells DNA is not mixed between parents.
+
+**** ATP
+More detailed info later in respiration and ATP 
+
+- For now this is the major currency used when it comes to energy within cells. 
+
 *** Plastids 
 - Something that animals 100% don't have (I swear if someone tells me they do, I'm done with biology) 
 - They make and store their needed compounds 
@@ -182,7 +194,18 @@ Had a quick look to see if these acted the same in animals as they do in plants 
 - These convert light energy from the sun (how do plants in the UK work then?) and convert them to sugar 
  and oxygen. 
   - Fortunately the plant doesn't need the extra oxygen so at some point expels it. 
+- All the green parts of a plant, are all filled with cells which are filled with chloroplasts 
 
+*** Central Cacuole 
+- Plant cells can push water into vacuoles 
+  - These provide turgor pressure
+- Reinforces the plants already rigid structure 
+- When cells lose some water turgor pressure drops 
+  - Thin celery stalks going limp over time 
+- This is also a kind of storage container for the cell 
+  - For water (ICE)
+  - Other compounds the cell might need also contained here
+- Can be used to export things the cell doesn't need anymore like wastes
 
 ** Nucleus
 - The beloved leader 
