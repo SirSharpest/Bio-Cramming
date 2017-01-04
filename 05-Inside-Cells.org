@@ -140,8 +140,27 @@ N.B. Very very basic explanation that is no where near enough to appreciate the 
 [[./images/ribo.png]]
 
 *** Golgi Apparatus 
+- Apparatus makes it sound like a very high-tech piece of machinery
+  - Which it is... 
+  - It's made up of stacks of membranous layers (sometimes called Golgi bodies) 
+    - Golgi bodies cut up large proteins into smaller hormones 
+    - Can combine proteins and carbohydrates to make other molecules 
+- In the City analogy this is the post office 
+- Here proteins are processed and packaged and sent out to where they need to go. 
+- Out puts from the golgi apparatus are transported in Vesicles 
+- Golgi Bodies also put the finishing touches on Lysosomes 
+[[./images/golgi.png]] 
 
+*** Vesicles 
+- These transport molecules manufactured by the golgi apparatus
+- Have a phospholipid membrane
+- Can move internal to the cell or externally 
+- Bit more info can be found in previous notes on [[file:04-Cell-Membranes.org][Cell Membrnaes]] in the transport section
 
+*** Lysosomes 
+- These are basically the waste treatment part of the cell 
+- Handle cell digestion 
+- Basically sacks full of enzymes which break down cellular waste and debris from 
 
 * Reference terms
 #+attr_latex: :environment longtable :align |l|p{10cm}| 
