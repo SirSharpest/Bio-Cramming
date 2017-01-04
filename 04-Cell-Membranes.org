@@ -122,10 +122,49 @@ There are basically two categories for crossing the cell membrane
 - Where the outside concentrations are equal to the inside of a cell. 
 - To become isotonic we talk about moving across the concentration gradient
 - Concentrations are important because of this example: 
-  - If you were to put a red blood cell into a vat of water, the solution in the cell would be so hypertonic 
-   compared to the water that the cell that water would rush into the cell and literally explode. 
+  - If you were to put a red blood cell into a vat of water, the solution in the cell would be so hypertonic compared to the water that the cell that water would rush into the cell and literally explode. 
   - The same happens in reverse were rather than explode, the blood cell would shrivel up and be useless
 
-
+**** Channel Proteins 
+- Whilst water can permeate through the cell wall by itself. It can be difficult 
+  - This is because like previously mentioned the phospholipids are hydrophobic on the inside and can make it difficult for water to pass through
+- These allow passage of water and ions and other stuff without using any energy
+- They straddle the width of the membrane 
+- Internally they are hydrophillic which draws the water through 
+- Channel proteins specifically for water are called Aquaporins
 
 ** Active Transport 
+- These do use energy!
+- Very useful when going against a gradient i.e. moving from low to high, high to low
+- All of these transport mechanisms use ATP (Adenosine triphosphate)
+  - [[file:06-ATP.org][See notes here]]
+- When a cell requires active transport it effectively has to pay a fee to a transport protein. 
+
+*** Sodium - Potassium Pump
+- A lot of cells have them 
+- Particularly vital to cells which require a lot of energy 
+- These pumps work against two gradients at the same time. 
+  - The concentration gradient 
+  - The electrochemical gradient (difference in electrical charge on either side of the membrane)
+- To get the energy for this action, the pump breaks up a molecule of ATP
+  - When an ATP joins one of its phosphate groups to the pump, an enzyme breaks the covalent off, in a burst of excitement and energy
+  - The split produces enough energy to change the shape of the pump
+  - The new shape upon releasing sodium ions from with the cell, is now ideal to pick up potassium ions from the outside
+ 
+[[./images/sodiumpump.png]] 
+
+*** Vesicluar Transport 
+- The heavy lifting here is done by tiny little vesicles 
+- They are tiny sacs made of phospholipids
+- Also named Cytosis, for the Greek "cell action" 
+
+**** Exocytosis 
+- When they move things out of a cell 
+
+**** Endocytosis
+When molecules  enter a cell via Cytosis 
+- Few different kinds of this, one example is Phagocytosis. Where the cell will devour/engulf molecules from outside the cell
+- Pinocytosis being where it drinks in already floating molecules.
+- Meditated Endocytosis where receptor proteins in the membrane form vesicles when they connect with the molecule they're looking for
+
+[[./images/vesi.png]]
