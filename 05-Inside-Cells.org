@@ -100,6 +100,7 @@ Both Flagellum and Cilia are made of protein fibres called Microtubules.
 - The RER is attached to the nuclear envelope surrounding the Nucleus. 
 - The close proximity of RER to the nucleus allows for molecules to move between both membranes.
 
+
 *****  Protein synthesis 
 - begins when mRNA (again more later) moves from the nucleus to a ribosome on the surface of the RER
 - As the ribosome builds the amino acid chain, the chain is pushed into the cisternal space of the RER
@@ -125,8 +126,24 @@ Both Flagellum and Cilia are made of protein fibres called Microtubules.
 - It is able to store many ions in solution
 - When a cell needs to do something immediately, it uses this rather than scavenge around the environment
 
+*** Ribosomes 
+N.B. Very very basic explanation that is no where near enough to appreciate the entire process!
 
-** Reference terms
+- These can float freely throughout cytoplasm 
+- Or be attached to the nuclear envelope which is where they are spat out from
+- Their role is to assemble ammino acids into polypeptides 
+- When the chain is built, it is pushed into the ER 
+- When complete the ER sends it off to the Golgi Apparatus 
+**** Are Ribosomes Organelles?
+- Short answer no, [[https://www.life.illinois.edu/mcb/150/private/faq/index.php?action%3Dartikel&cat%3D2&id%3D1172&artlang%3Den][and here is why]]
+
+[[./images/ribo.png]]
+
+*** Golgi Apparatus 
+
+
+
+* Reference terms
 #+attr_latex: :environment longtable :align |l|p{10cm}| 
 |------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Amyloplast       | An organelle in some plant cells that stores starch. Amyloplasts are found in starchy plants like tubers and fruits.                                                                                                                                                                                                                                                                                                                                                                  |
