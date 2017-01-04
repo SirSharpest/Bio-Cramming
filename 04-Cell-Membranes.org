@@ -91,3 +91,41 @@ and slightly more important are:
 [[./images/membranes.png]]
 
 * Transport 
+There are basically two categories for crossing the cell membrane 
+
+** Passive Transport 
+- This doesn't require any energy to do
+- Perfect as it lets important things like oxygen and water get into the cell
+
+*** Diffusion 
+- Great way to look at this is people in a large crowd... 
+  - If you have a crowd of people who don't like touching each other, in a small room,
+  they each try to get as much personal space as possible, until there is a uniform distance between each person.
+- When water gets crowded it moves to where there is less water 
+
+[[./images/diffusion.png]] 
+
+**** Osmosis 
+- This is when water moves between a cells membrane 
+- It is how cells regulate water content 
+- This is handy because it works with water that contains dissolved materials (solution of water)
+- Water is great, [[file:02-Water.org][more on it here]]
+
+***** Hypertonic 
+- If the concentration of a solution is higher inside of a cell than it is outside of it
+
+***** Hypotonic
+- If the concentration of a solution is lower inside of a cell than outside it. 
+
+***** Isotonic 
+- Like all things in life we want a balance
+- Where the outside concentrations are equal to the inside of a cell. 
+- To become isotonic we talk about moving across the concentration gradient
+- Concentrations are important because of this example: 
+  - If you were to put a red blood cell into a vat of water, the solution in the cell would be so hypertonic
+ compared to the water that the cell that water would rush into the cell and literally explode. 
+  - The same happens in reverse were rather than explode, the blood cell would shrivel up and be useless
+
+
+
+** Active Transport 
