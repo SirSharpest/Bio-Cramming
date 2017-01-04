@@ -123,7 +123,7 @@ There are basically two categories for crossing the cell membrane
 - To become isotonic we talk about moving across the concentration gradient
 - Concentrations are important because of this example: 
   - If you were to put a red blood cell into a vat of water, the solution in the cell would be so hypertonic
- compared to the water that the cell that water would rush into the cell and literally explode. 
+  compared to the water that the cell that water would rush into the cell and literally explode. 
   - The same happens in reverse were rather than explode, the blood cell would shrivel up and be useless
 
 
