@@ -175,7 +175,7 @@ Had a quick look to see if these acted the same in animals as they do in plants 
   - Scientists know this apparently because of their double membrane
 - The most important of the plastids is the chloroplasts
 
-[[./plasts.png]]
+[[./images/plasts.png]]
 
 **** Chloroplasts
 - As with a lot of things there is more detailed notes on this in the photosynthesis sections 
