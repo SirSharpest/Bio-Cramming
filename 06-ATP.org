@@ -6,7 +6,6 @@
 - Whilst this is named ATP it is actually more focused on the photosynthesis process 
 - Because I only really care about plants... 
 
-
 * Photosynthesis 
 
 ** Kinds of Reactions in Photosynthesis
@@ -15,18 +14,19 @@
   - Calvin Cycle
 
 ** What does Photosynthesis need? 
-- Water (assuming we have a vascular plant) 
-  - Plants that use roots to move water to the leaves 
-  - Using tissues called Xylem
-- Carbon Dioxide 
-  - Gets in through pores in the leaves called stomata (oxygen gets out here too)
-  - Side note, it is surprisingly important that plants keep oxygen levels low within their cells. 
-- Sunlight 
-  - Individual photons from the sun are absorbed by a pigment called Chlorophyll    
-    - Stored in Chloroplasts which are not just big sacks of Cholophyll, there's a complex internal structure
-    - Cholophyll is stashed Thylakoids (Phospholipid bilayers) 
-    - Which are stacked into Grana 
-    - With Lumen inside
-    - and outside this but inside the Chloroplasts is the Stroma
+
+*** Water (assuming we have a vascular plant) 
+- Plants that use roots to move water to the leaves 
+- Using tissues called Xylem
+*** Carbon Dioxide 
+- Gets in through pores in the leaves called stomata (oxygen gets out here too)
+- Side note, it is surprisingly important that plants keep oxygen levels low within their cells. 
+*** Sunlight 
+- Individual photons from the sun are absorbed by a pigment called Chlorophyll    
+  - Stored in Chloroplasts which are not just big sacks of *Cholophyll*, there's a complex internal structure
+  - Cholophyll is stashed *Thylakoids* (Phospholipid bilayers) 
+  - Which are stacked into *Grana* 
+  - With *Lumen* inside
+  - and outside this but inside the Chloroplasts is the *Stroma*
 
 [[./images/plasts.png]]
