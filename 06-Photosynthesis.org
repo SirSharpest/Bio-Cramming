@@ -1,0 +1,47 @@
+#+TITLE: Photosynthesis
+#+OPTIONS: toc:nil 
+#+AUTHOR: Nathan Hughes 
+
+* Photosynthesis 
+
+** Kinds of Reactions in Photosynthesis
+- Light dependant 
+- Light independent
+  - Calvin Cycle
+
+** What does Photosynthesis need? 
+
+*** Water (assuming we have a vascular plant) 
+- Plants that use roots to move water to the leaves 
+- Using tissues called Xylem
+*** Carbon Dioxide 
+- Gets in through pores in the leaves called stomata (oxygen gets out here too)
+- Side note, it is surprisingly important that plants keep oxygen levels low within their cells. 
+*** Sunlight 
+- Individual photons from the sun are absorbed by a pigment called Chlorophyll    
+  - Stored in Chloroplasts which are not just big sacks of *Cholophyll*, there's a complex internal structure
+  - Cholophyll is stashed *Thylakoids* (Phospholipid bilayers) 
+  - Which are stacked into *Grana* 
+  - With *Lumen* inside
+  - and outside this but inside the Chloroplasts is the *Stroma*
+
+** Stage 1
+
+1. A photon from the sun makes a 93 million mile journey, arriving on a piece of chlorophyll
+2. An electron absorbs the energy from the photon (I didn't understand this either [[https://www.physicsforums.com/threads/how-does-an-electron-absorb-energy-from-a-photon.371949/][detailed response to the question]])
+3. The electron becomes "excited" that is to say it has energy and no where to put it (Photoexcitation) 
+4. The goal of the the plant becomes turning this electron into something "useful" 
+
+This first chlorophyll is not on its own. It is part of an insanely complex array of proteins, lipids and
+other molecules that are part of a system called "Photosystem II". 
+- This process contains at least 99 different chemicals 
+- and over 30 individual chlorophyll molecules 
+- It is the first of 4 Protein Complexes that plants need for the light dependant reactions
+- Yes the first stage is called 2...
+- The full name is: Plastoquinone Oxidoreductase 
+- Or PSII
+
+*** PSII
+- PSII and 
+
+[[./images/plasts.png]]
