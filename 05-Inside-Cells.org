@@ -46,7 +46,7 @@ A cell is like a city:
 
 Both Flagellum and Cilia are made of protein fibres called Microtubules.
 
-* Plant Cells 
+* Inside Plant Cells 
 [[./images/plantcell.png]] 
 
 ** History 
@@ -160,7 +160,59 @@ N.B. Very very basic explanation that is no where near enough to appreciate the 
 *** Lysosomes 
 - These are basically the waste treatment part of the cell 
 - Handle cell digestion 
-- Basically sacks full of enzymes which break down cellular waste and debris from 
+- Basically sacks full of enzymes which break down cellular waste and debris
+- Converts this waste into new building materials by breaking them down into simple structures 
+- Releases what it breaks down into the cytoplasm to be reused. 
+  
+*** Mitochondria 
+Had a quick look to see if these acted the same in animals as they do in plants and there is a 
+[[http://www.journals.uchicago.edu/doi/abs/10.2307/1536370][journal on the subject]] the abstract seems to be enough to assume that for the most part yes. 
+
+*** Plastids 
+- Something that animals 100% don't have (I swear if someone tells me they do, I'm done with biology) 
+- They make and store their needed compounds 
+- These and mitochondria started as bacteria that were absorbed into plant cells early in their evolution 
+  - Scientists know this apparently because of their double membrane
+- The most important of the plastids is the chloroplasts
+
+[[./plasts.png]]
+
+**** Chloroplasts
+- As with a lot of things there is more detailed notes on this in the photosynthesis sections 
+- These convert light energy from the sun (how do plants in the UK work then?) and convert them to sugar 
+ and oxygen. 
+  - Fortunately the plant doesn't need the extra oxygen so at some point expels it. 
+
+
+** Nucleus
+- The beloved leader 
+- Super highly specialised 
+- Lives away in its own double membraned, high security compound 
+  - With its buddy the nucleolus 
+- In charge in a major way, as it stores the cell's DNA
+  - All of the information required for the cell to do its job
+- Makes all of the laws for the cell 
+  - Tells all the organelles how to grow, what to metabolise, what to do, what to synthesis, when and how to divide
+- All of what it does, comes from the blueprints encoded in its DNA. 
+  - To build proteins that will facilitate a specific job getting done. 
+  - Fret not! There will more information on protein synthesis.
+- The Necleus holds its precious DNA (along with some proteins) in a web-like substance called Chromatain
+
+*** Chromatain 
+- When it comes time for the cell to split the chromatain gathers into rod shaped chromosomes 
+ each of which holds DNA molecules 
+  - [[http://www.madsci.org/posts/archives/2006-01/1137011862.Cb.r.html][Do all cells split at some point?]] Is about humans but applicable 
+
+*** Nucleolus
+- This is not enveloped by its own membrane
+- Is just a gooey splotch of stuff within the nucleus 
+- Main job is creating rRNA (ribosomal RNA) 
+  - Which it then combines with the proteins needed for the basic units of ribosomes
+  - Once these are done they are spat out through the nuclear envelope, where they are fully assembled 
+- The nucleolus then sends messages in the form of mRNA to those ribosomes (which are kinda like henchmen who carry
+ out orders in the rest of the cell. 
+- How ribosomes do all of this is again, super complex and will be done in more depth in protein synthesis notes.
+[[./images/nucleolus.png]]
 
 * Reference terms
 #+attr_latex: :environment longtable :align |l|p{10cm}| 
