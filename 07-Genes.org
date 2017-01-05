@@ -61,3 +61,12 @@ As much as I'd rather use plant examples it's currently easier to use humans...
 
 *** Ear wax gene example 
 [[./images/earwax.png]]
+
+- As there is just one gene which determines earwax consistency and that one gene is located in the same place 
+ in every person's chromosome set 
+- It is located in set 16 
+- However there is one version of this gene (or *Allele*) which says it will be wet and another which says to be dry
+- A glycine in the ammino acid chain wll result in wet earwax
+[[./images/glycineear.png]] 
+- A Arginine will produce dry 
+[[./images/arginineear.png]]
