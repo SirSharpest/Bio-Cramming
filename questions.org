@@ -24,3 +24,7 @@
 - [[http://evolution.berkeley.edu/evolibrary/article/_0/endosymbiosis_03][More reading]]
 * TODO Cell detoxification in smooth er, does this work the same in plants
 - i.e. in humans it helps with stuff derived from drugs / alcohol, does it work same in plants 
+* TODO Genes, how do they really start and stop? (Hidden stops?) 
+* TODO Genes, humans diploid so in sex cells 1 from each parent, in say hexiploid is it 3 per parent?
+- Is it ever different/varies?
+- What happens when haploid things reproduce? 
