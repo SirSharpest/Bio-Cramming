@@ -29,6 +29,7 @@ As much as I'd rather use plant examples it's currently easier to use humans...
 *** Humans have 23 [pairs] of Chromosomes 
 - This is the form that DNA takes when getting passed on from parent to child
 - The pairing is important to note as this makes humans diploid
+  - Some plants are Polyploid! 
   - This is actually super interesting, more on that later
 [[./images/chromo.png]]
 
@@ -59,7 +60,7 @@ As much as I'd rather use plant examples it's currently easier to use humans...
 - The colour of pea flowers for example, which Mendel studied. 
 - The consistency of ear wax in humans is one as another example 
 
-*** Ear wax gene example 
+** Ear wax gene example 
 [[./images/earwax.png]]
 
 - As there is just one gene which determines earwax consistency and that one gene is located in the same place 
@@ -71,8 +72,40 @@ As much as I'd rather use plant examples it's currently easier to use humans...
 - A Arginine will produce dry 
 [[./images/arginineear.png]]
 
-**** How do you get what you get? 
+*** How do you get what you get? 
 - In most things, anything which isn't a sperm or an egg cell is known as *somatic* cells. 
 - In sex cells or *gametes* are haploid cells. Meaning they only have 1 set of chromosomes? 
   - Note in the Damien Rice song "The Professor" he mentions "Gametes Disease", this may be a reference to him suffering from being male.
+- For the earwax allele consider your parents, mother having a wet allele, and father dry.
+  (Remembering that each parent also has potentially wet and dry alleles given by their parents)
+  - The one passed to you is entirely random
+- Mendel also discovered that whilst you can have both traits, one can be *Dominant* and the other *Recessive*
+- Dominance being where one allele masks or completely suppresses the expression of the other. 
 
+**** Allele Dominance 
+- Lets say that your mother gives you a dominant allele for wet and father's dry is recessive
+- These are symbolised with big *W* and little *w* for dominant and recessive respectfully
+|-----+-----|
+| Wet | Dry |
+|-----+-----|
+| *W* | *w* |
+|-----+-----| 
+- Everyone inherits two alleles from their parents
+- Inheriting two different alleles is called the *Heterozygous* [genotype] 
+  - Which means inheriting two different types of the same gene. 
+- *Homozygous* is the opposite where you inherit the same type from both parents
+
+**** Punnet Squares 
+- These let us diagram the outcome of a particular cross breeding experiment
+- Can be used to show potential phenotypes (that is to say the physical expression of the genes) 
+- Still running with the ear wax 
+  - Assume mother has *W,w* and father *w,w* where *W* is dominant and *w* recessive
+#+attr_latex: :environment longtable :align |l|c|c| 
+|-----+---------+---------|
+| -   | *w*     | *w*     |
+|-----+---------+---------|
+| *W* | *W* *w* | *W* *w* |
+| *w* | *w* *w* | *w* *w* |
+|-----+---------+---------|
+
+- From this we can see that any child from this mating has a 50/50 chance of being either Heterozygous or Homozygous
