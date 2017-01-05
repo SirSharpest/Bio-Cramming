@@ -40,8 +40,11 @@ other molecules that are part of a system called "Photosystem II".
 - Yes the first stage is called 2...
 - The full name is: Plastoquinone Oxidoreductase 
 - Or PSII
-
-*** PSII
-- PSII and 
+- PSII and indeed all of the protein complexes in the light dependant reactions 
+ straddle the membrane of the thylakoids in the chloroplast
 
 [[./images/plasts.png]]
+
+*** Electron transport chain 
+
+* TODO This needs finished, but too eager to look at DNA right now

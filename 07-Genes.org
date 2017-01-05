@@ -1,0 +1,63 @@
+#+TITLE: Genes
+#+OPTIONS: toc:nil 
+#+AUTHOR: Nathan Hughes 
+
+* Heredity
+
+** Aristotle
+Okay quick note on why I always rant about needing to know everything; Aristotle laid down some information 
+about how traits were passed on, and no one really questioned them for a good few hundred years. How many other things
+are like this? That we have used 'logic' and made assumptions without providing proper truths. Okay, rant over for now.
+
+For example Aristotle believed that should a white squirrel and a black squirrel were to mate, their offspring would 
+be grey. 
+
+** Gregor Mendel 
+[[./images/mendel.png]] 
+
+This is the man who questioned how genes really worked! 
+
+- He recognised that traits follow certain patterns 
+- Working with pea plants 
+- Made lots of experiments crossing these plants 
+  - This let him see which traits got passed on 
+- Came up with a frame work to see how traits actually got passed on 
+
+** Classical Genetics 
+As much as I'd rather use plant examples it's currently easier to use humans... 
+
+*** Humans have 23 [pairs] of Chromosomes 
+- This is the form that DNA takes when getting passed on from parent to child
+- The pairing is important to note as this makes humans diploid
+  - This is actually super interesting, more on that later
+[[./images/chromo.png]]
+
+*** Genes 
+- A gene (singular) is a specific section on a chromosome that contains information which determines a trait 
+
+[[./images/genes.png]]
+
+**** Question: How do you know when a gene stats and stops?
+- So basically Genes have a secret code which marks the beginning and ending of their sequence. 
+- DNA is read in triplets
+- These are called 'Codons'
+- This is a very messy descent into genetics about what they look like and what they mean in RNA/DNA
+  - Hopefully more in later notes
+ 
+
+**** Polygenic Trait
+- Of course the majority of the time a physical trait is a reflection of a bunch of different genes working together
+ this is known as a polygenic trait 
+
+**** Pleiotropic 
+- Sometimes a single gene can end up affecting how a whole bunch of stuff will be expressed. 
+- When this is the case it is known as being a pielotropic gene.
+
+**** Mendelian Trait 
+- Named after Mendel 
+- Refers to a single gene affecting a single trait 
+- The colour of pea flowers for example, which Mendel studied. 
+- The consistency of ear wax in humans is one as another example 
+
+*** Ear wax gene example 
+[[./images/earwax.png]]
