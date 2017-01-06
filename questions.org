@@ -28,3 +28,5 @@
 * TODO Genes, humans diploid so in sex cells 1 from each parent, in say hexiploid is it 3 per parent?
 - Is it ever different/varies?
 - What happens when haploid things reproduce? 
+* TODO Genes  What happens if a non-essential allele is missing from both parents
+- Follow up question, is every gene in the same place for each of that species? and what if this occurs where it is moved?

@@ -1,3 +1,4 @@
+
 #+TITLE: Genes
 #+OPTIONS: toc:nil 
 #+AUTHOR: Nathan Hughes 
@@ -109,3 +110,27 @@ As much as I'd rather use plant examples it's currently easier to use humans...
 |-----+---------+---------|
 
 - From this we can see that any child from this mating has a 50/50 chance of being either Heterozygous or Homozygous
+
+
+* Clarifications
+
+** Are all sperm and egg cells the same?
+I found a good answer of this on [[https://www.reddit.com/r/askscience/comments/1nklqa/does_it_really_matter_which_sperm_cell_reached/][reddit]] here's the response
+
+"Every cell in the human body is diploid, in that it carries 46 chromosomes. All, except for the gametes, which are sex cells. Usually, cells replicate/reproduce themselves through mitosis, whereby they replicate the DNA, then spilt into two. But to produce gametes, like sperm cells and ova, it's a little different.
+They are produced through meiosis. The simplified version, is that a sex cell replicates itself into two, each with 46 chromosomes, then those split into a total of four, with 23 each. During this process, bits of DNA 'cross over' between homologous chromosomes, which adds to genetic variability. Furthermore, independent assortment of the chromosomes occurs, such that in your sperm cells, may be a mixture of your dad's chromosomes, and your mum's, independently assorted from one another.
+This process allows for a lot of variability, 2^{23} different possibilities, plus the process of crossing over, and random genetic mutations (rare-ish).
+So yes, it matters a lot which sperm gets to the egg."
+
+** What causes Dominance in Alleles
+[[http://genetics.thetech.org/ask/ask227][Good question and answer found here]]
+
+** Allele types 
+- Some alleles can blend
+  - Think flower colour sometimes 
+- Some can both be present and show up 
+  - Think spotted animals like rabbits or dogs 
+- And some are backups and used if something goes wrong
+
+** Why is DNA packaged into Chromosome?
+[[https://www.reddit.com/r/askscience/comments/5mfzz6/why_does_dna_pack_itself_into_chromosomes_for/][This question was asked here and maybe of some use / insight on this]]
