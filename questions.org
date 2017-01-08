@@ -30,3 +30,8 @@
 - What happens when haploid things reproduce? 
 * TODO Genes  What happens if a non-essential allele is missing from both parents
 - Follow up question, is every gene in the same place for each of that species? and what if this occurs where it is moved?
+* TODO What is the process of matching a genotype to phenotype, without misinterpreting it.
+* TODO Is every gamete the same, within an organism or does each one independently have traits
+* TODO How does the evolution of species occur that develop different Ploidy
+- How can this happen without two parents simultaneously developing a mutation AND produce enough offspring without being inbred / out shadowed by existing population
+* TODO Gene editing, if we add longer chains between two codons, when reproducing why doesn't this mess up the zipping process? 

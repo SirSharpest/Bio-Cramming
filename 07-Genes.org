@@ -114,6 +114,11 @@ As much as I'd rather use plant examples it's currently easier to use humans...
 
 * Clarifications
 
+** Genotype/Phenotype 
+- A Genotype is the internal 'nature' of a thing, as Mendel described it
+- The Phenotype is the physical manifestation of a trait
+- Thus the two cannot be used to assume each other. 
+
 ** When we talk about Genes, what are they really?
  A gene is just a set of instructions for making a protein. 
 It's the protein that does all the work, giving us traits like red hair, blue eyes, or freckles.
@@ -131,6 +136,9 @@ So yes, it matters a lot which sperm gets to the egg."
 
 - Just because an allele is recessive, does not mean that it is less common in all genetic material than the 
  dominant. 
+
+** Dominant isn't always common! 
+- [[https://ww2.kqed.org/quest/2011/06/06/dominant-isn%25E2%2580%2599t-always-common/][Good read here about why dominant isn't always so when it comes to populations]]
 
 ** Allele types 
 - Some alleles can blend
