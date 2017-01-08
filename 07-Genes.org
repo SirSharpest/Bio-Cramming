@@ -110,7 +110,27 @@ As much as I'd rather use plant examples it's currently easier to use humans...
 |-----+---------+---------|
 
 - From this we can see that any child from this mating has a 50/50 chance of being either Heterozygous or Homozygous
+- Important to remember that dominance is only so, if present, so whilst \[1/4\] of the alleles are *W* 
+ there is still only 4 possibilities, 2 of which have the dominant gene.  
 
+*** Earwax gene is an example of Pleiotropic 
+- The gene which codes for earwax also affects body-odour because they are produced by the same type of gland. 
+- This makes it a great example of a Pleiotropic gene, as it has an effect on multiple phenotypes. 
+
+** Sex-based inheritance 
+- As we have 23 chromosomes 
+- 22 pairs of autosomes 
+  - Non-sex chromosomes 
+- 23^{rd} pair are sex-chromosomes 
+- At this position women have 2 full length chromosomes (*XX*)
+- Whilst men have 1 full *X* and one short *Y* chromosome. 
+- This explains gender specific traits. 
+- Also explains some traits only possible for offspring to have gotten from a single parent 
+- Without a complimentary chromosome to provide argument information, it leads to some things always being expressed
+  - For instance, balding in men, is given through the mother's line. 
+
+
+[[./images/xy.png]]
 
 * Clarifications
 
@@ -126,7 +146,7 @@ It's the protein that does all the work, giving us traits like red hair, blue ey
 ** Are all sperm and egg cells the same?
 I found a good answer of this on [[https://www.reddit.com/r/askscience/comments/1nklqa/does_it_really_matter_which_sperm_cell_reached/][reddit]] here's the response
 
-"Every cell in the human body is diploid, in that it carries 46 chromosomes. All, except for the gametes, which are sex cells. Usually, cells replicate/reproduce themselves through mitosis, whereby they replicate the DNA, then spilt into two. But to produce gametes, like sperm cells and ova, it's a little different.
+"Every cell in the human body is diploid, in that it carries 46 chromosomes (23 pairs). All, except for the gametes, which are sex cells. Usually, cells replicate/reproduce themselves through mitosis, whereby they replicate the DNA, then spilt into two. But to produce gametes, like sperm cells and ova, it's a little different.
 They are produced through meiosis. The simplified version, is that a sex cell replicates itself into two, each with 46 chromosomes, then those split into a total of four, with 23 each. During this process, bits of DNA 'cross over' between homologous chromosomes, which adds to genetic variability. Furthermore, independent assortment of the chromosomes occurs, such that in your sperm cells, may be a mixture of your dad's chromosomes, and your mum's, independently assorted from one another.
 This process allows for a lot of variability, 2^{23} different possibilities, plus the process of crossing over, and random genetic mutations (rare-ish).
 So yes, it matters a lot which sperm gets to the egg."
