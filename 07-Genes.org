@@ -114,6 +114,10 @@ As much as I'd rather use plant examples it's currently easier to use humans...
 
 * Clarifications
 
+** When we talk about Genes, what are they really?
+ A gene is just a set of instructions for making a protein. 
+It's the protein that does all the work, giving us traits like red hair, blue eyes, or freckles.
+
 ** Are all sperm and egg cells the same?
 I found a good answer of this on [[https://www.reddit.com/r/askscience/comments/1nklqa/does_it_really_matter_which_sperm_cell_reached/][reddit]] here's the response
 
@@ -125,6 +129,9 @@ So yes, it matters a lot which sperm gets to the egg."
 ** What causes Dominance in Alleles
 [[http://genetics.thetech.org/ask/ask227][Good question and answer found here]]
 
+- Just because an allele is recessive, does not mean that it is less common in all genetic material than the 
+ dominant. 
+
 ** Allele types 
 - Some alleles can blend
   - Think flower colour sometimes 
@@ -132,5 +139,10 @@ So yes, it matters a lot which sperm gets to the egg."
   - Think spotted animals like rabbits or dogs 
 - And some are backups and used if something goes wrong
 
+** What decides the allele passed on to offspring? 
+- [[http://www.nature.com/scitable/topicpage/inheritance-of-traits-by-offspring-follows-predictable-6524925][Here would suggest that it is predictable]] 
+- 
+
 ** Why is DNA packaged into Chromosome?
 [[https://www.reddit.com/r/askscience/comments/5mfzz6/why_does_dna_pack_itself_into_chromosomes_for/][This question was asked here and maybe of some use / insight on this]]
+
