@@ -10,8 +10,24 @@ Stole this little image as it relates back to some of the previous ones nicely i
 - A 6 billion letter, long code that provides the instruction set for LIFE! 
 
 ** Bio-molecules 
-- On going from what we said in [[03-Bio-molecules.org][Bio-Molecules]] DNA is one of the four essential biological molecules
+- On going from what we said in [[03-Bio-molecules.org][Bio-Molecules]] DNA is the last of the four essential biological molecules
  - Carbohydrates 
  - Lipids 
  - Proteins
  - Nucleic Acids  
+
+*** Nucleic Acids 
+- (Objectively) Have the most complex job of all the bio-molecules 
+- Structurally they are polymers
+  - Meaning that they are made up of many small repeating molecular units 
+- These polymers are made up of nucleotides
+  - Nucleotides linked together form polynucleotides
+[[./images/polymers.png]]
+[[./images/nucleotides.png]]
+
+**** Nucleotides
+What makes up a nucleotide? 
+- A 5 carbon sugar molecule
+- A phosphate group 
+- 1 of the 4 nitrogen bases
+[[./images/nucl-ingredients.png]]
