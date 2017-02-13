@@ -30,4 +30,34 @@ What makes up a nucleotide?
 - A 5 carbon sugar molecule
 - A phosphate group 
 - 1 of the 4 nitrogen bases
+  - Adenine
+  - Thymine
+  - Cytosine
+  - Guanine
 [[./images/nucl-ingredients.png]]
+
+*** Double Helix 
+- In living organisms DNA doesn't exist as a single polynucleotide string 
+- It exists in a pair of molecules which are held tightly together. 
+- In what is basically a ladder (but twisted!)
+- The supports holding these two strands together are the sugars and phosphate groups
+  - As backbones, rather than forming across the pairs 
+- These supports run down both sides of the molecule but in different directions 
+  - Looking at these backbones, one appears to be in reverse order
+    - One starts with the sugar being connected to the 5^{th} carbon of the sugar module
+    - And ends where the next phosphate will go with the 'free' end at the next sugars 3^{rd} carbon 
+    - This creates the phrase "5 Prime & 3 Prime" used to indicate direction 
+    - The other strand is the opposite in going 3 -> 5
+- These nitrogen bases are held together by relatively weak hydrogen bonds
+- They cannot be just "any pair"
+  - They are A->T and G->C
+  - A->T has 2 hydrogen bonds
+  - G-> has 3 making it slightly stronger
+- It is this "Base Sequence" which dictates what the DNA codes for! 
+[[./images/bases.png]]
+[[./images/primes.png]]
+
+*** Fun DNA Facts! 
+- In Humans, chromosome 1 (the largest of all of them) has a single DNA molecule containing 247 Million base pairs
+- Printing all of the letters of this chromosome 1 into a book would be about 200 thousand pages long
+- Each somatic cell (again in humans) has 46 DNA molecules packed into it! 
