@@ -3,7 +3,15 @@
 #+AUTHOR: Nathan Hughes 
 
 * DNA 
+Stole this little image as it relates back to some of the previous ones nicely in style! 
+[[./images/dna.png]]
 ** Deoxyribonucleic Acid
 - The information that programs all of our cells activities
 - A 6 billion letter, long code that provides the instruction set for LIFE! 
 
+** Bio-molecules 
+- On going from what we said in [[03-Bio-molecules.org][Bio-Molecules]] DNA is one of the four essential biological molecules
+ - Carbohydrates 
+ - Lipids 
+ - Proteins
+ - Nucleic Acids  

@@ -14,7 +14,7 @@ For example Aristotle believed that should a white squirrel and a black squirrel
 be grey. 
 
 ** Gregor Mendel 
-[[./images/mendel.png]] 
+[[./images/mendel.png]]
 
 This is the man who questioned how genes really worked! 
 
