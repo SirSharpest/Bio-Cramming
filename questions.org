@@ -10,7 +10,7 @@
 * TODO How can the same make up of molecules present different forms i.e. diamond and graphite
 - TODO: [[https://www.scientificamerican.com/article/how-can-graphite-and-diam/][Scientific American article on it]] (few paragraphs on it) 
 
-* TODO Why do plants store their energy in fruits/vegetables/tubors 
+* TODO Why do plants store their energy in fruits/vegetables/tubers 
 - Oh I think it's for the next generation.
 - We steal their energy... 
 
